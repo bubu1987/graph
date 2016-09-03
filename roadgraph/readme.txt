@@ -1,1 +1,1 @@
-This is a readme file.
+The MapGraph.java has dijkstra and A* search methods.
