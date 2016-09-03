@@ -1,1 +1,1 @@
-The MapGraph.java has dijkstra and A* search methods.
+The MapGraph.java has bfs, dfs, dijkstra and A* search methods.
